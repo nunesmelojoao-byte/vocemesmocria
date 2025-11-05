@@ -1,7 +1,7 @@
 :root{/* CSS HEX */
     --azul: #2b2d42ff;
     --cinza: #8d99aeff;
-    --branco: #edf2f4ff;
+    --branco: rgb(40, 149, 192);
     --vermelho: #ef233cff;
 
 }
